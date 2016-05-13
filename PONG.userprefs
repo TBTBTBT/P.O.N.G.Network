@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Player/Anbs.cs">
+    <Files>
+      <File FileName="Assets/Script/Effect/BumperTilt.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Core/GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Text/SelectPointWriter.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Text/SelectWriter.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Ball/Ball.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Core/CameraFixer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Text/DamageWriter.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Player/Anbs.cs" Line="29" Column="62" />
+      <File FileName="Assets/Script/Player/PlayerBase.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Effect/Particle.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Core/EventManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Player/Nogone.cs" Line="14" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
